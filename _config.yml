@@ -1,0 +1,6 @@
+title: "AVATAR.COM"
+description: "Website Travel Indonesia"
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
