@@ -1,0 +1,129 @@
+/* Reset style untuk menghilangkan margin/padding bawaan browser */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Gaya umum untuk body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('../img/back.jpeg'); /* Ganti dengan gambar pesawat */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+    transition: background 0.3s ease;
+}
+
+/* Kontainer utama */
+.booking-container {
+    background: #ffffff;
+    width: 500px;
+    max-width: 90%;
+    padding: 20px 25px;
+    border-radius: 12px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+    border: 1px solid #e0e4e8;
+}
+
+/* Gaya untuk judul */
+.booking-container h1 {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+/* Gaya untuk setiap rincian pesanan */
+.detail-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #e0e4e8;
+    align-items: center; /* Menyelaraskan elemen secara vertikal */
+}
+
+.detail-item:last-child {
+    border-bottom: none;
+}
+
+.detail-item strong {
+    color: #007bff; /* Warna biru untuk label */
+}
+
+.detail-item span {
+    color: #555555; /* Warna abu-abu untuk nilai */
+}
+
+/* Tombol aksi */
+.action-buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.action-buttons a {
+    text-decoration: none;
+    background: #007bff;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin: 0 10px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    transition: background 0.3s ease;
+}
+
+.action-buttons a:hover {
+    background: #0056b3;
+}
+
+/* Gaya untuk logo provider */
+.provider-logo {
+    max-width: 150px;
+    height: auto;
+    border-radius: 8px; /* Menambahkan sudut membulat pada gambar */
+    transition: transform 0.3s ease; /* Efek zoom saat hover */
+}
+
+.provider-logo:hover {
+    transform: scale(1.1); /* Efek zoom saat hover */
+}
+
+/* Menyembunyikan logo jika tidak sesuai */
+#garuda-logo, #lion-logo {
+    display: none;
+}
+
+/* Gaya untuk background ketika memilih pesawat */
+.pesawat-background {
+    background-image: url('../img/pesawat.jpg'); /* Ganti dengan gambar latar belakang pesawat */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Responsif untuk perangkat kecil */
+@media (max-width: 600px) {
+    .booking-container {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .action-buttons a {
+        padding: 8px 16px;
+        font-size: 12px;
+    }
+
+    .detail-item {
+        font-size: 14px;
+    }
+}

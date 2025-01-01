@@ -1,0 +1,51 @@
+/* CSS untuk mempercantik tampilan package */
+.package-item {
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.package-item:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+.overflow-hidden img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-bottom: 1px solid #ddd;
+}
+.text-primary {
+  color: #007bff !important;
+}
+.text-center {
+  text-align: center;
+}
+.d-flex {
+  display: flex;
+}
+.flex-fill {
+  flex: 1;
+}
+.border-bottom {
+  border-bottom: 1px solid #ddd;
+}
+.border-end {
+  border-right: 1px solid #ddd;
+}
+.btn {
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+}
+.btn:hover {
+  background-color: #0056b3;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .col-md-6 {
+      width: 100%;
+      margin-bottom: 20px;
+  }
+}

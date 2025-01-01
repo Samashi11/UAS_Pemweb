@@ -1,0 +1,126 @@
+/* Reset default margin dan padding untuk semua elemen */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Mengatur gaya dasar body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #2200ffaa;
+    color: #333;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Container untuk form pemesanan */
+.booking-container {
+    width: 100%;
+    max-width: 800px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: auto;
+}
+
+/* Judul halaman */
+h1 {
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+/* Styling untuk setiap elemen form */
+.form-group {
+    margin-bottom: 15px;
+}
+
+/* Label untuk input fields */
+label {
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+.back {
+    color: rgb(15, 176, 15);
+}
+
+/* Styling untuk input, select, dan textarea */
+input[type="text"],
+input[type="number"],
+select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+    background-color: #fff;
+    transition: border-color 0.3s ease;
+}
+
+/* Fokus pada input dan select */
+input[type="text"]:focus,
+input[type="number"]:focus,
+select:focus {
+    border-color: #007bff;
+}
+
+/* Menonaktifkan input select */
+input[disabled], select[disabled] {
+    background-color: #f9f9f9;
+    cursor: not-allowed;
+}
+
+/* Menampilkan harga total */
+.price-display {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #007bff;
+    text-align: center;
+    padding: 10px 0;
+    border-top: 2px solid #ddd;
+    margin-bottom: 20px;
+}
+
+/* Tombol submit */
+button[type="submit"] {
+    width: 100%;
+    padding: 15px;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Efek hover pada tombol */
+button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+/* Responsif untuk perangkat kecil */
+@media (max-width: 600px) {
+    .booking-container {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+
+    button[type="submit"] {
+        padding: 12px;
+    }
+}
