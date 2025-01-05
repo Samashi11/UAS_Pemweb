@@ -2,13 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>TRAVELER - Free Travel Website Template</title>
+    <title>AVATAR.COM | Travel Booking Website</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="Free HTML Templates" name="keywords" />
     <meta content="Free HTML Templates" name="description" />
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon" />
+    <link href="img/Ava.png" rel="icon" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com" />
@@ -98,10 +98,12 @@
             id="navbarCollapse"
           >
             <div class="navbar-nav ml-auto py-0">
-              <a href="index.html" class="nav-item nav-link ">Home</a>
+              <a href="index.html" class="nav-item nav-link">Home</a>
               <a href="about.html" class="nav-item nav-link">About Us</a>
               <a href="team.html" class="nav-item nav-link">Our Team</a>
-              <a href="package.html" class="nav-item nav-link active">Tour Packages</a>
+              <a href="package.html" class="nav-item nav-link active"
+                >Tour Packages</a
+              >
             </div>
           </div>
         </nav>
@@ -133,45 +135,53 @@
     <div class="container-fluid booking mt-5 pb-5">
       <div class="container pb-5">
         <div class="bg-light shadow" style="padding: 30px">
-          <div class="row align-items-center" style="min-height: 60px">
-            <div class="col-md-10">
-              <div class="row">
-                <div class="col-md-4">
-                  <div class="mb-3 mb-md-0">
-                    <select class="custom-select px-4" style="height: 47px">
-                      <option selected hidden>Moda Transportasi</option>
-                      <option value="pesawat">Pesawat</option>
-                      <option value="kereta">Kereta</option>
-                      <option value="kapal">Kapal</option>
-                      <option value="bis">Bis</option>
-                    </select>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="mb-3 mb-md-0">
-                    <div class="date" id="date1" data-target-input="nearest">
-                      <input
-                        type="text"
-                        class="form-control p-4 datetimepicker-input"
-                        placeholder="Name"
-                        data-target="#date1"
-                      />
+          <form action="tiket.html" method="get">
+            <div class="row align-items-center" style="min-height: 60px">
+              <div class="col-md-10">
+                <div class="row">
+                  <div class="col-md-4">
+                    <div class="mb-3 mb-md-0">
+                      <select
+                        class="custom-select px-4"
+                        style="height: 47px"
+                        id="mode1"
+                        name="mode"
+                      >
+                        <option selected hidden>Moda Transportasi</option>
+                        <option value="pesawat">Pesawat</option>
+                        <option value="kereta">Kereta</option>
+                        <option value="kapal">Kapal</option>
+                        <option value="bis">Bis</option>
+                      </select>
                     </div>
                   </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="mb-3 mb-md-0">
-                    <div class="date" id="date2" data-target-input="nearest">
-                      <input
-                        type="number"
-                        class="form-control p-4 datetimepicker-input"
-                        placeholder="Phone Number"
-                        data-target="#date2"
-                      />
+                  <div class="col-md-4">
+                    <div class="mb-3 mb-md-0">
+                      <div class="date" id="date1" data-target-input="nearest">
+                        <input
+                          type="text"
+                          class="form-control p-4 datetimepicker-input"
+                          placeholder="Name"
+                          name="name"
+                          id="name1"
+                        />
+                      </div>
                     </div>
                   </div>
-                </div>
-                <!-- <div class="col-md-3">
+                  <div class="col-md-4">
+                    <div class="mb-3 mb-md-0">
+                      <div class="date" id="date2" data-target-input="nearest">
+                        <input
+                          type="number"
+                          class="form-control p-4 datetimepicker-input"
+                          placeholder="Phone Number"
+                          id="contact1"
+                          name="contact"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <!-- <div class="col-md-3">
                   <div class="mb-3 mb-md-0">
                     <select class="custom-select px-4" style="height: 47px">
                       <option selected>Duration</option>
@@ -181,18 +191,19 @@
                     </select>
                   </div>
                 </div> -->
+                </div>
+              </div>
+              <div class="col-md-2">
+                <button
+                  class="btn btn-primary btn-block"
+                  type="submit"
+                  style="height: 47px; margin-top: -2px"
+                >
+                  Submit
+                </button>
               </div>
             </div>
-            <div class="col-md-2">
-              <button
-                class="btn btn-primary btn-block"
-                type="submit"
-                style="height: 47px; margin-top: -2px"
-              >
-                Submit
-              </button>
-            </div>
-          </div>
+          </form>
         </div>
       </div>
     </div>
@@ -523,7 +534,9 @@
             <h1 class="text-primary"><span class="text-white">AVAT</span>AR</h1>
           </a>
           <p>
-            Avatar adalah platform perjalanan terbaik untuk memenuhi kebutuhan perjalanan Anda. Kami menawarkan layanan yang mudah, cepat, dan terpercaya.
+            Avatar adalah platform perjalanan terbaik untuk memenuhi kebutuhan
+            perjalanan Anda. Kami menawarkan layanan yang mudah, cepat, dan
+            terpercaya.
           </p>
           <h6
             class="text-white text-uppercase mt-4 mb-3"
@@ -681,5 +694,8 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+
+    <!-- Logic Javascript -->
+    <script src="js/script.js"></script>
   </body>
 </html>
