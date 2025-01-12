@@ -15,11 +15,11 @@
   </head>
   <body>
     <div class="booking-container">
-      <a href="index.html" class="back">
+      <a href="index.php" class="back">
 				<i class="fas fa-backward" aria-hidden="true"></i>
 			</a>
       <h1>Travel Booking Form</h1>
-      <form id="order-form" action="rincian.html" method="get">
+      <form id="order-form" action="rincian.php" method="get">
         <!-- Input Nama -->
         <div class="form-group">
           <label for="name">Nama:</label>
