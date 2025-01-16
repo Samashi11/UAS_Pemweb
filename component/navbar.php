@@ -48,11 +48,10 @@
       </button>
       <div class="collapse navbar-collapse justify-content-between px-3" id="navbarCollapse">
         <div class="navbar-nav ml-auto py-0">
-          <a href="index.php?hal=home" class="nav-item nav-link <?php if (isset($_GET['hal']) && $_GET['hal'] == 'home')
+          <a href="index.php?hal=home" class="nav-item nav-link <?php if (!isset($_GET['hal']) || $_GET['hal'] == 'home')
             echo 'active'; ?>">Home</a>
-          <a href="index.php?hal=about"
-            class="nav-item nav-link <?php if (isset($_GET['hal']) && $_GET['hal'] == 'about')
-              echo 'active'; ?>">About
+          <a href="index.php?hal=about" class="nav-item nav-link <?php if (isset($_GET['hal']) && $_GET['hal'] == 'about')
+            echo 'active'; ?>">About
             Us</a>
           <a href="index.php?hal=team" class="nav-item nav-link <?php if (isset($_GET['hal']) && $_GET['hal'] == 'team')
             echo 'active'; ?>">Our Team</a>
@@ -64,4 +63,3 @@
   </div>
 </div>
 <!-- Navbar End -->
-
