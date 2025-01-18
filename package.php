@@ -22,7 +22,7 @@
     <div class="container-fluid booking mt-5 pb-5">
       <div class="container pb-5">
         <div class="bg-light shadow" style="padding: 30px">
-          <form action="tiket.html" method="get">
+          <form action="tiket.php" method="get">
             <div class="row align-items-center" style="min-height: 60px">
               <div class="col-md-10">
                 <div class="row">

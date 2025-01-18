@@ -47,7 +47,7 @@
 
         <!-- Tombol aksi -->
         <div class="action-buttons">
-            <a href="tiket.html">Kembali</a>
+            <a href="index.php">Kembali</a>
             <a href="#" onclick="window.print()">Cetak Tiket</a>
         </div>
     </div>
