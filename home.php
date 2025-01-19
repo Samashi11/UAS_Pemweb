@@ -143,7 +143,7 @@
                 <img class="img-fluid" src="img/jogja.jpg" alt="" />
               </div>
             </div>
-            <a href="about.html" class="btn btn-primary mt-1">MORE</a>
+            <a href="#" class="btn btn-primary mt-1">MORE</a>
           </div>
         </div>
       </div>
