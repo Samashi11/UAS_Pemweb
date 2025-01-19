@@ -8,7 +8,7 @@
 /* Mengatur gaya dasar body */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #2200ffaa;
+    background-color: #7AB730;
     color: #333;
     padding: 20px;
     display: flex;
@@ -31,7 +31,7 @@ body {
 /* Judul halaman */
 h1 {
     text-align: center;
-    color: #007bff;
+    color: #7AB730;
     margin-bottom: 20px;
 }
 
@@ -71,7 +71,7 @@ select {
 input[type="text"]:focus,
 input[type="number"]:focus,
 select:focus {
-    border-color: #007bff;
+    border-color: #7AB730;
 }
 
 /* Menonaktifkan input select */
@@ -85,7 +85,7 @@ input[disabled], select[disabled] {
     margin-top: 20px;
     font-size: 18px;
     font-weight: bold;
-    color: #007bff;
+    color: #7AB730;
     text-align: center;
     padding: 10px 0;
     border-top: 2px solid #ddd;
@@ -96,7 +96,7 @@ input[disabled], select[disabled] {
 button[type="submit"] {
     width: 100%;
     padding: 15px;
-    background-color: #007bff;
+    background-color: #7AB730;
     color: white;
     font-size: 16px;
     border: none;
@@ -107,7 +107,7 @@ button[type="submit"] {
 
 /* Efek hover pada tombol */
 button[type="submit"]:hover {
-    background-color: #0056b3;
+    background-color: #7AB730;
 }
 
 /* Responsif untuk perangkat kecil */

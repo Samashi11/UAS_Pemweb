@@ -39,7 +39,7 @@
         Usefull Links
       </h5>
       <div class="d-flex flex-column justify-content-start">
-        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>About</a>
+        <a class="text-white-50 mb-2" href="about.php"><i class="fa fa-angle-right mr-2"></i>About</a>
         <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Destination</a>
         <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Services</a>
         <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Packages</a>
@@ -64,7 +64,7 @@
         <div class="input-group">
           <input type="text" class="form-control border-light" style="padding: 25px" placeholder="Your Email" />
           <div class="input-group-append">
-            <button class="btn btn-primary px-3">Sign Up</button>
+            <button class="btn btn-primary px-3" onclick="showAlert()">Sign Up</button>
           </div>
         </div>
       </div>
@@ -81,9 +81,14 @@
     </div>
     <div class="col-lg-6 text-center text-md-right">
       <p class="m-0 text-white-50">
-        Designed by <a href="">Avatar Team</a>
+        Designed by <a href="team.php">Avatar Team</a>
       </p>
     </div>
   </div>
 </div>
+<script>
+    function showAlert() {
+        alert("Sign Up berhasil!");
+    }
+</script>
 <!-- Footer End -->

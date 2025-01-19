@@ -339,7 +339,7 @@
                 <small class="m-0"><i class="fa fa-ticket-alt text-primary mr-2"></i>Lion
                   Air</small>
               </div>
-              <a class="h5 text-decoration-none" href="">Nikmati keindahan pantai Bali</a>
+              <a class="h5 text-decoration-none" href="tiket.php">Nikmati keindahan pantai Bali</a>
               <div class="border-top mt-4 pt-4">
                 <div class="d-flex justify-content-between">
                   <h6 class="m-0">
@@ -362,7 +362,7 @@
                 <small class="m-0"><i class="fas fa-ticket-alt text-primary mr-2"></i>KAI
                   Eksekutif</small>
               </div>
-              <a class="h5 text-decoration-none" href="">Jelajahi suasana sejuknya kota Bandung</a>
+              <a class="h5 text-decoration-none" href="tiket.php">Jelajahi suasana sejuknya kota Bandung</a>
               <div class="border-top mt-4 pt-4">
                 <div class="d-flex justify-content-between">
                   <h6 class="m-0">
@@ -385,7 +385,7 @@
                 <small class="m-0"><i class="fas fa-ticket-alt text-primary mr-2"></i>PO. Agra
                   Mas</small>
               </div>
-              <a class="h5 text-decoration-none" href="">Rasakan kehidupan kota terbesar di Jawa Timur</a>
+              <a class="h5 text-decoration-none" href="tiket.php">Rasakan kehidupan kota terbesar di Jawa Timur</a>
               <div class="border-top mt-4 pt-4">
                 <div class="d-flex justify-content-between">
                   <h6 class="m-0">
@@ -486,11 +486,8 @@
           <div class="team-item bg-white mb-4">
             <div class="team-img position-relative overflow-hidden">
               <img class="img" style="height: 10rem; width: 10rem" src="img/bima.jpeg" alt="" />
-              <div class="team-social">
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-twitter"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-instagram"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-linkedin-in"></i></a>
+              <div class="team-social">   
+                <a class="btn btn-outline-primary btn-square" href="https://www.instagram.com/bima_1211/p/C_2LN70vMEp/"><i class="fab fa-instagram"></i></a>
               </div>
             </div>
             <div class="text-center py-4">
@@ -504,10 +501,7 @@
             <div class="team-img position-relative overflow-hidden">
               <img class="img" style="height: 10rem; width: 10rem" src="img/yuda.jpeg" alt="" />
               <div class="team-social">
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-twitter"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-instagram"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-linkedin-in"></i></a>
+                <a class="btn btn-outline-primary btn-square" href="https://www.instagram.com/p/DE_d7hiziIh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><i class="fab fa-instagram"></i></a>
               </div>
             </div>
             <div class="text-center py-4">
@@ -521,10 +515,7 @@
             <div class="team-img position-relative overflow-hidden">
               <img class="img" style="height: 10rem; width: 10rem" src="img/ayu.jpeg" alt="" />
               <div class="team-social">
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-twitter"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-instagram"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-linkedin-in"></i></a>
+                <a class="btn btn-outline-primary btn-square" href="https://www.instagram.com/p/DD7INb2Sqs9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><i class="fab fa-instagram"></i></a>
               </div>
             </div>
             <div class="text-center py-4">
@@ -538,10 +529,7 @@
             <div class="team-img position-relative overflow-hidden">
               <img class="img" style="height: 10rem; width: 10rem" src="img/jordan.jpeg" alt="" />
               <div class="team-social">
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-twitter"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-instagram"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-linkedin-in"></i></a>
+                <a class="btn btn-outline-primary btn-square" href="https://www.instagram.com/p/DE9Rx-oTymV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><i class="fab fa-instagram"></i></a>
               </div>
             </div>
             <div class="text-center py-4">
@@ -555,10 +543,7 @@
             <div class="team-img position-relative overflow-hidden">
               <img class="img-fluid w-100" src="img/Me.jpg" alt="" />
               <div class="team-social">
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-twitter"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-instagram"></i></a>
-                <a class="btn btn-outline-primary btn-square" href=""><i class="fab fa-linkedin-in"></i></a>
+                <a class="btn btn-outline-primary btn-square" href="https://www.instagram.com/p/DE9A5H-vdcJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><i class="fab fa-instagram"></i></a>
               </div>
             </div>
             <div class="text-center py-4">
