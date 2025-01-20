@@ -92,6 +92,21 @@
           </select>
         </div>
 
+
+        <div class="form-group">
+          <label for="jadwal">Pilih waktu Keberangkatan</label>
+          <select id="jadwal" name="jadwal" required >
+            <option value="Pagi 07.00 WIB">Pagi 07.00</option>
+            <option value="Siang 13.00 WIB">Siang 13.00</option>
+            <option value="Malam 20.00 WIB">Malam 20.00</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+        <label for="tanggal">Pilih Tanggal:</label>
+        <input type="date" id="tanggal" name="tanggal">
+        </div>
+
         <!-- Input Jumlah Tiket -->
         <div class="form-group">
           <label for="tickets">Jumlah Tiket:</label>

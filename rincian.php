@@ -39,6 +39,12 @@
             <img id="lion-logo" class="provider-logo" src="./img/lion.png" alt="Lion Logo" style="display:none;">
         </div>
         <div class="detail-item">
+        <strong>Waktu Keberangkatan:</strong> <span id="jadwal"></span>
+        </div>
+        <div class="detail-item">
+        <strong>Tanggal Keberangkatan:</strong> <span id="tanggal"></span>
+        </div>
+        <div class="detail-item">
             <strong>Jumlah Tiket:</strong> <span id="tickets"></span>
         </div>
         <div class="detail-item">
@@ -84,6 +90,8 @@
         document.getElementById('classType').textContent = classText;
 
         document.getElementById('provider').textContent = params.get('provider') || "Tidak ada data";
+        document.getElementById('jadwal').textContent = params.get('jadwal') || "Tidak ada data";
+        document.getElementById('tanggal').textContent = params.get('tanggal') || "Tidak ada data";
         document.getElementById('tickets').textContent = params.get('tickets') || "Tidak ada data";
         document.getElementById('payment').textContent = params.get('payment') || "Tidak ada data";
 
