@@ -90,16 +90,7 @@
                     </div>
                   </div>
                 </div>
-                <!-- <div class="col-md-3">
-                  <div class="mb-3 mb-md-0">
-                    <select class="custom-select px-4" style="height: 47px">
-                      <option selected>Duration</option>
-                      <option value="1">Duration 1</option>
-                      <option value="2">Duration 1</option>
-                      <option value="3">Duration 1</option>
-                    </select>
-                  </div>
-                </div> -->
+  
               </div>
             </div>
             <div class="col-md-2">
@@ -143,7 +134,8 @@
                 <img class="img-fluid" src="img/jogja.jpg" alt="" />
               </div>
             </div>
-            <a href="#" class="btn btn-primary mt-1">MORE</a>
+            <a href="index.php?hal=about" class="nav-item nav-link <?php if (isset($_GET['hal']) && $_GET['hal'] == 'about')
+            echo 'active'; ?>" class="btn btn-primary mt-1">MORE</a>
           </div>
         </div>
       </div>

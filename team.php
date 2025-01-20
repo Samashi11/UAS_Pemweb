@@ -38,17 +38,8 @@
                   alt=""
                 />
                 <div class="team-social">
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-twitter"></i
-                  ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
+                  <a class="btn btn-outline-primary btn-square" href="https://www.instagram.com/bima_1211/p/C_2LN70vMEp/"
                     ><i class="fab fa-instagram"></i
-                  ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-linkedin-in"></i
                   ></a>
                 </div>
               </div>
@@ -68,17 +59,8 @@
                   alt=""
                 />
                 <div class="team-social">
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-twitter"></i
-                  ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
+                  <a class="btn btn-outline-primary btn-square" href="https://www.instagram.com/p/DE_d7hiziIh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
                     ><i class="fab fa-instagram"></i
-                  ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-linkedin-in"></i
                   ></a>
                 </div>
               </div>
@@ -98,17 +80,8 @@
                   alt=""
                 />
                 <div class="team-social">
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-twitter"></i
-                  ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
+                  <a class="btn btn-outline-primary btn-square" href="https://www.instagram.com/p/DD7INb2Sqs9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
                     ><i class="fab fa-instagram"></i
-                  ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-linkedin-in"></i
                   ></a>
                 </div>
               </div>
@@ -128,17 +101,8 @@
                   alt=""
                 />
                 <div class="team-social">
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-twitter"></i
-                  ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
+                  <a class="btn btn-outline-primary btn-square" href="https://www.instagram.com/p/DE9Rx-oTymV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
                     ><i class="fab fa-instagram"></i
-                  ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-linkedin-in"></i
                   ></a>
                 </div>
               </div>
@@ -153,18 +117,12 @@
               <div class="team-img position-relative overflow-hidden">
                 <img class="img-fluid w-100" src="img/Me.jpg" alt="" />
                 <div class="team-social">
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-twitter"></i
+                  
                   ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
+                  <a class="btn btn-outline-primary btn-square" href="https://www.instagram.com/p/DE9A5H-vdcJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
                     ><i class="fab fa-instagram"></i
                   ></a>
-                  <a class="btn btn-outline-primary btn-square" href=""
-                    ><i class="fab fa-linkedin-in"></i
-                  ></a>
+               
                 </div>
               </div>
               <div class="text-center py-4">

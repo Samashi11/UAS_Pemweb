@@ -8,7 +8,7 @@
           <h3 class="display-4 text-white text-uppercase">Packages</h3>
           <div class="d-inline-flex text-white">
             <p class="m-0 text-uppercase">
-              <a class="text-white" href="index.html">Home</a>
+              <a class="text-white" href="#">Home</a>
             </p>
             <i class="fa fa-angle-double-right pt-1 px-3"></i>
             <p class="m-0 text-uppercase">Packages</p>
@@ -124,7 +124,7 @@
                     Air</small
                   >
                 </div>
-                <a class="h5 text-decoration-none" href=""
+                <a class="h5 text-decoration-none" href="tiket.php"
                   >Nikmati keindahan pantai Bali</a
                 >
                 <div class="border-top mt-4 pt-4">
@@ -156,7 +156,7 @@
                     Eksekutif</small
                   >
                 </div>
-                <a class="h5 text-decoration-none" href=""
+                <a class="h5 text-decoration-none" href="tiket.php"
                   >Jelajahi suasana sejuknya kota Bandung</a
                 >
                 <div class="border-top mt-4 pt-4">
@@ -188,7 +188,7 @@
                     Mas</small
                   >
                 </div>
-                <a class="h5 text-decoration-none" href=""
+                <a class="h5 text-decoration-none" href="tiket.php"
                   >Rasakan kehidupan kota terbesar di Jawa Timur</a
                 >
                 <div class="border-top mt-4 pt-4">
@@ -220,7 +220,7 @@
                     >Sritex</small
                   >
                 </div>
-                <a class="h5 text-decoration-none" href=""
+                <a class="h5 text-decoration-none" href="tiket.php"
                   >Temukan keajaiban budaya Yogyakarta
                 </a>
                 <div class="border-top mt-4 pt-4">
@@ -252,7 +252,7 @@
                     Line</small
                   >
                 </div>
-                <a class="h5 text-decoration-none" href=""
+                <a class="h5 text-decoration-none" href="tiket.php"
                   >Jelajahi pantai Losari yang terkenal</a
                 >
                 <div class="border-top mt-4 pt-4">
@@ -285,7 +285,7 @@
                     >Sriwijaya Air</small
                   >
                 </div>
-                <a class="h5 text-decoration-none" href=""
+                <a class="h5 text-decoration-none" href="tiket.php"
                   >Kunjungi Medan untuk melihat Danau Toba</a
                 >
                 <div class="border-top mt-4 pt-4">

@@ -76,12 +76,13 @@
   <div class="row">
     <div class="col-lg-6 text-center text-md-left mb-3 mb-md-0">
       <p class="m-0 text-white-50">
-        Copyright &copy; <a href="#">AVATAR.com</a>. All Rights Reserved.
+        Copyright &copy;  <a href="#">AVATAR.com</a>. All Rights Reserved.
       </p>
     </div>
     <div class="col-lg-6 text-center text-md-right">
       <p class="m-0 text-white-50">
-        Designed by <a href="team.php">Avatar Team</a>
+        Designed by  <a href="index.php?hal=team" class="nav-item nav-link <?php if (isset($_GET['hal']) && $_GET['hal'] == 'team')
+            echo 'active'; ?>">Avatar Team</a>
       </p>
     </div>
   </div>
