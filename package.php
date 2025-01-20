@@ -322,7 +322,7 @@
               <img class="img-fluid" src="img/bali.jpg" alt="" />
               <a
                 class="destination-overlay text-white text-decoration-none"
-                href=""
+                href="https://youtu.be/6rz5LNbQFAQ?si=C17R0A-MiFASn8hb"
               >
                 <h5 class="text-white">Bali</h5>
                 <span class="text-center">Pulau Dewata yang terkenal</span>
@@ -336,7 +336,7 @@
               <img class="img-fluid" src="img/jogja1.jpg" alt="" />
               <a
                 class="destination-overlay text-white text-decoration-none"
-                href=""
+                href="https://youtu.be/1V_4-f5Ocy4?si=IgFNT7E2plDPVNwX"
               >
                 <h5 class="text-white">Yogyakarta</h5>
                 <span class="text-center">Pusat seni dan budaya Jawa</span>
@@ -350,7 +350,7 @@
               <img class="img-fluid" src="img/jkt.jpg" alt="" />
               <a
                 class="destination-overlay text-white text-decoration-none"
-                href=""
+                href="https://youtu.be/xKRlchrOWNc?si=ezWonoRAprH_UDXs"
               >
                 <h5 class="text-white">Jakarta</h5>
                 <span class="text-center"
@@ -366,7 +366,7 @@
               <img class="img-fluid" src="img/bandung.jpg" alt="" />
               <a
                 class="destination-overlay text-white text-decoration-none"
-                href=""
+                href="https://youtu.be/IE4g_i_Lc-I?si=jD_bWaiPvhAMHYeQ"
               >
                 <h5 class="text-white">Bandung</h5>
                 <span class="text-center">Kota sejuk di dataran tinggi</span>
@@ -380,7 +380,7 @@
               <img class="img-fluid" src="img/lmbk.jpg" alt="" />
               <a
                 class="destination-overlay text-white text-decoration-none"
-                href=""
+                href="https://youtu.be/BbkFE_K_t0c?si=-tvQQZdc_EhX7GmW"
               >
                 <h5 class="text-white">Lombok</h5>
                 <span class="text-center"
@@ -396,7 +396,7 @@
               <img class="img-fluid" src="img/sumut.jpg" alt="" />
               <a
                 class="destination-overlay text-white text-decoration-none"
-                href=""
+                href="https://youtu.be/KBayN9XW8Ig?si=DY0urgE4Pzln8Uhf"
               >
                 <h5 class="text-white">Sumatera Utara</h5>
                 <span class="text-center"
